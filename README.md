@@ -14,7 +14,7 @@
 2. Create DB and specify your connection details in `.env` file.
 3. In project directory run:
     1. `composer install`
-    2. `php artisan migrat`
+    2. `php artisan migrate`
     3. `npm install`
 4. Open new terminal window and run `php artisan serve`
 5. Open new terminal window and run `npm run dev`
