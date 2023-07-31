@@ -5,6 +5,7 @@
 ### Mandatory Requirements
 
 - PHP >= 8.2.x
+- Mysql 8.0.x
 - Node >= 19.4.x
 - Composer >= 2.5.x
 
